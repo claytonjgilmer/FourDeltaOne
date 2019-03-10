@@ -1,4 +1,3 @@
 # FourDeltaOne
-FourDeltaOne Source
 
-Visit https://www.giga-core.com for more useless things...
+Source code to NTAuthority's fourDeltaOne series of modifications for the Call of Duty games on PC.
